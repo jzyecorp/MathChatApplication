@@ -1,0 +1,4 @@
+# [START gae_java11_custom_entrypoint]
+runtime: java11
+entrypoint: java Main.java
+# [END gae_java11_custom_entrypoint]
